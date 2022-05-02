@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate at some company as dev junior. 
 - 📫 How to reach me:
-- this are my social midias 
 - instagram : davibrito.n
 - 
 
