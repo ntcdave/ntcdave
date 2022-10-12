@@ -15,4 +15,4 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
-Atualmente estou no primeiro período de análise e desenvolvimento de sistemas, pretendo ingressar na área de programação o mais cedo possível. 
+Sou estudante no curso de Análise e Desenvolvimento de Sistemas. Atualmente estou buscando um estágio na qual eu posso exercer meus conhecimentos adquiridos através do curso. Estou no 2° período, tenho conhecimento nas linguagens de programação, python, CSS, JavaScript e HTML.
