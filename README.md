@@ -17,4 +17,4 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-Sou estudante no curso de Análise e Desenvolvimento de Sistemas. Atualmente estou buscando um estágio na qual eu posso exercer meus conhecimentos adquiridos através do curso. Estou no 2° período, tenho conhecimento nas linguagens de programação, python, CSS, JavaScript e HTML.
+Sou estudante no curso de Análise e Desenvolvimento de Sistemas e Sistemas para Internet. Estou buscando uma posição na qual eu posso exercer meus conhecimentos adquiridos através do curso. Estou no 3° período, tenho conhecimento nas linguagens de programação, python, CSS, JavaScript e HTML.
