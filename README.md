@@ -20,7 +20,7 @@ I thrive in dynamic environments where I can **build scalable software**, **solv
     
 - **C++** | Data structures and performance optimization
     
-- **JavaScript/TypeScript** | Angular, Node.js, Express
+- **JavaScript/TypeScript** | Next.js, Node.js, Express
     
 
 ### 🧰 Tools & Technologies
@@ -57,7 +57,7 @@ I thrive in dynamic environments where I can **build scalable software**, **solv
     
 - 🧠 Applying **machine learning** and **IoT** concepts from past courses to practical use cases
     
-- 🖥️ Enhancing dual-boot and Linux system configurations (e.g., Parrot OS + Windows 11)
+- 🖥️ Enhancing dual-boot and Linux system configurations (Ubuntu + Windows 11)
     
 - ⚙️ Homelab development using **Proxmox VE** on a **Dell PowerEdge 750**
     
@@ -82,8 +82,5 @@ If you're interested in collaborating, discussing cool tech, or hiring for a pro
     
 - 📫 Email: davibrito.tech@gmail.com
     
-- 💻 Portfolio: [Website](davibrito.vercel.app)
+- 💻 Portfolio: [Site pessoal](https://davibrito.vercel.app)
 
----
-
-> _“The best way to predict the future is to invent it.” – Alan Kay_
