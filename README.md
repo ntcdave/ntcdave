@@ -82,5 +82,5 @@ If you're interested in collaborating, discussing cool tech, or hiring for a pro
     
 - 📫 Email: davibrito.tech@gmail.com
     
-- 💻 Portfolio: [Site pessoal](https://davibrito.vercel.app)
+- 💻 Portfolio: [Site pessoal](https://ntcdave.github.io/)
 
